@@ -1,0 +1,2 @@
+
+    void insertword(string word){
